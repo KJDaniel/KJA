@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="website.css">
+    <title>VDesign Style</title>
+    <link rel="icon" href="images/Vstyle12.png" type="image/x-icon">
+
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <input type="checkbox" name="" id="check">
+            
+            <div class="logo-container">
+                <h3 class="logo">VStyle<span>Design</span></h3>
+            </div>
+
+            <div class="nav-btn">
+                <div class="nav-links">
+                    <ul>
+                        <li class="nav-link" style="--i: .6s">
+                            <a href="home.html">Home</a>
+                        </li>
+                        <li class="nav-link" style="--i: .85s">
+                            <a href="#">Products<i class="fas fa-caret-down"></i></a>
+                            <div class="dropdown">
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="Wedding.html">Events signs</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="balloons.html">VStyle Balloons Designs</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="#">VStyle Rentals<i class="fas fa-caret-down"></i></a>
+                                        <div class="dropdown second">
+                                            <ul>
+                                                <li class="dropdown-link">
+                                                    <a href="VStyle Party.html">VStyle Rentals 1</a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="VStyle Rentals2.html">VStyle Rentals 2</a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="VStyle Rentals3.html">VStyle Rentals 3</a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="Rental Services.html">More<i class="fas fa-caret-down"></i></a>
+                                                    <div class="dropdown second">
+                                                        <ul>
+                                                            <li class="dropdown-link">
+                                                                <a href="Design1.html">VStyle Rentals 4</a>
+                                                            </li>
+                                                            <li class="dropdown-link">
+                                                                <a href="Design2.html">VStyle Rentals 5</a>
+                                                            </li>
+                                                            <li class="dropdown-link">
+                                                                <a href="Design3.html">VStyle Rentals 6</a>
+                                                            </li>
+                                                            <div class="arrow"></div>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <div class="arrow"></div>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="candles.html">Candle Holders</a>
+                                    </li>
+                                    <div class="arrow"></div>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="nav-link" style="--i: 1.1s">
+                            <a href="Rental Services.html">Services<i class="fas fa-caret-down"></i></a>
+                            <div class="dropdown">
+                                <ul>
+                                    <li class="dropdown-link">
+                                        <a href="Rental Services.html">Rentals</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="consultations.html">Consultations</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                        <a href="#">Calendar<i class="fas fa-caret-down"></i></a>
+                                        <div class="dropdown second">
+                                            <ul>
+                                                <li class="dropdown-link">
+                                                    <a href="Booking.html ">Booking appointments</a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="https://wa.me/c/18687980890">Phone contacts </a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="https://wa.me/c/18687980890
+                                                    ">Whats app</a>
+                                                    </li>
+                                                    <li class="dropdown-link">
+                                                        <a href="Forms.html">More<i class="fas fa-caret-down"></i></a>
+                                                        <div class="dropdown second">
+                                                            <ul>
+                                                                <li class="dropdown-link">
+                                                                    <a href="https://instagram.com/decor_rentaltt?igshid=MzRlODBiNWFlZA==
+                                                                    "
+                                                                    >Instagram-Vdecor rental</a>
+                                                                </li>
+                                                                <li class="dropdown-link">
+                                                                    <a href="Booking.html">Messenger</a>
+                                                                </li>
+                                                                <li class="dropdown-link">
+                                                                    <a href="https://instagram.com/vstyle_decor?igshid=MzRlODBiNWFlZA==
+                                                                    "https:
+                                                                    >Instagram-VStyledecor</a>
+                                                                </li>
+                                                                <div class="arrow"></div>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <div class="arrow"></div>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="dropdown-link">
+                                            <a href="Forms.html">Email</a>
+                                        </li>
+                                        <div class="arrow"></div>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="nav-link" style="--i: 1.35s">
+                                <a href="about.html">About</a>
+                            </li>
+                        </ul>
+                    </div>
+    
+                    <div class="log-sign" style="--i: 1.8s">
+                        <a href="login2.html" class="btn transparent">Log in</a>
+                        <a href="Sign Up.html" class="btn solid">Sign up</a>
+                        
+                    </div>
+                </div>
+    
+                <div class="vdesign-menu-container">
+                    <div class="vdesign-menu">
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <section>
+                <div class="overlay"></div>
+            </section>
+        </main>
+    </body>
+    
+    </html>
+                                   
